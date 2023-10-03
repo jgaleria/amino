@@ -1,3 +1,21 @@
 .card-img-top {
   opacity: .25;
 }
+
+h3 {
+  color: black;
+  font-weight: bold;
+}
+
+p {
+  color: black;
+}
+
+.nav-word {
+  font-size: 90%;
+}
+
+.right-content {
+  float: right;
+  width: 50%; /* Adjust as needed */
+}
